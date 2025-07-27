@@ -7,3 +7,7 @@ lightning  # easier training
 lightning-bolts  # for linear warmup cosine decay scheduler
 
 hydra-core
+# DVS Denoising dependencies
+h5py
+imageio
+numba
